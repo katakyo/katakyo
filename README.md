@@ -2,7 +2,7 @@
 
 # Hi, I'm katakyo 👋
 
-### Backend / Mobile / Cloud Engineer 🇯🇵
+### Backend / Frontend / Mobile / Cloud Engineer 🇯🇵
 
 Building products across backend, mobile, infrastructure, and AI.
 
